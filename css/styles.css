@@ -12357,8 +12357,6 @@ p {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
   background-color: #212529;
 }
 
@@ -13204,14 +13202,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   .contact-links-container {
     display: block;
   }
-  .ruen {
-    width: 5rem;
-  }
 }
 
 
 @media (max-width: 800px) {
   .ruen {
-    width: 5rem;
+    width: 6rem;
   }
 }
